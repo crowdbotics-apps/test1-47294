@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-2fa](modules/2fa)
 - [django-s3-file-uploader](backend/modules)
 - [django-files](backend/modules)
+- [terms-and-conditions]()
 
 # Getting started: Frontend
 
